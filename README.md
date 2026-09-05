@@ -14,15 +14,13 @@ I still build complete products end-to-end, because I want to genuinely understa
 - 🌉 Training as a **BrSE / BA** — requirement analysis, business process modeling, spec & handover documentation.
 - 🈶 **Japanese at N3 level** — open to Japanese working environments.
 - 🔭 Currently building **role-based web systems**, **cross-platform mobile apps**, and **3D web experiences**.
-- 📐 My habit: I don't stop where the assignment lets me stop — a cake shop app goes all the way to recipes, production planning and daily stock.
 - 🔐 I never commit secrets — env vars, `.env.example`, Firebase App Check in enforced mode.
-- ⚡ Fun fact: I built a tarot web app with exactly **two** runtime dependencies.
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hiew133/Hiew133/main/assets/minion-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Hiew133/Hiew133/main/assets/minion-light.svg">
-    <img alt="A minion built from contribution-graph squares, walking across and eating them" src="https://raw.githubusercontent.com/Hiew133/Hiew133/main/assets/minion-light.svg" width="870">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hiew133/Hiew133/main/assets/sakura-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Hiew133/Hiew133/main/assets/sakura-light.svg">
+    <img alt="A blossom tree built from contribution-graph squares, blooming petal by petal" src="https://raw.githubusercontent.com/Hiew133/Hiew133/main/assets/sakura-light.svg" width="870">
   </picture>
 </p>
 
@@ -42,48 +40,6 @@ I still build complete products end-to-end, because I want to genuinely understa
 
 **Tools & DevOps**<br>
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=plastic&logo=githubactions&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![Vitest](https://img.shields.io/badge/Vitest-%236E9F18.svg?style=plastic&logo=vitest&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=plastic&logo=eslint&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white)
-
-# 🚀 Featured Projects:
-
-### 🌸 [さくら — Sakura](https://github.com/Hiew133/PRM393_SE1917_Project) · [Live demo](https://sakura-nihon.web.app)
-Japanese learning app for Vietnamese learners — **stroke-by-stroke handwriting grading**, AI speaking practice with rubric scoring, and a 9-level SRS. Team project (PRM393), I led development with **56/60 commits**.<br>
-`Flutter` `Dart` `Firebase` `Gemini` `App Check`
-
-### 🍰 [CakeShop](https://github.com/Hiew133/CakeShop)
-A bakery system covering the **full business cycle** — online ordering, delivery with photo confirmation, in-store POS, and ingredient stock computed from recipes. 4 roles, ~20 entities.<br>
-`Java 17` `Spring Boot` `Spring Security` `JPA` `SQL Server` `Thymeleaf`
-
-### 🏛️ [3D Party History Museum](https://github.com/Hiew133/VNR202) · [Live demo](https://vnr-202-coral.vercel.app/)
-A virtual museum running **straight in the browser** — 15 3D artifacts, hand-written GLSL shaders, unlocked by placing each artifact on the right pedestal.<br>
-`Next.js` `React Three Fiber` `TypeScript` `GLSL` `Zustand`
-
-### 🔮 [Tarot](https://github.com/Hiew133/tarot) · [Live demo](https://hiew133.github.io/tarot/)
-A deliberately constrained static web app — **no backend, no API, exactly two runtime dependencies**. Router, three animations and ~830 lines of CSS all hand-written, fully keyboard-operable.<br>
-`React 19` `Vite` `Vitest` `GitHub Actions`
-
-# 📊 GitHub Stats:
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hiew133&theme=github_dark">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hiew133&theme=default" alt="Profile details">
-  </picture>
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Hiew133&theme=github_dark">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Hiew133&theme=default" alt="Most commit language" height="200">
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Hiew133&theme=github_dark">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Hiew133&theme=default" alt="Stats" height="200">
-  </picture>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Hiew133&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub streak">
-</p>
 
 # 🈯 日本語プロフィール
 ベトナムのFPT大学でソフトウェア工学を専攻し、**日越ブリッジSE**コースに在籍している最終学年の学生です。日本語は**N3相当**です。
