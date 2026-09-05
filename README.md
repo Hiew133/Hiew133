@@ -1,111 +1,77 @@
-<h1 align="center">Lê Hiếu</h1>
+<h1 align="center">こんにちは, I'm Lê Hiếu 👋</h1>
 
 <p align="center">
-  <b>レ・ヒエウ</b><br>
-  <b>Bridge SE &nbsp;·&nbsp; Business Analyst</b><br>
-  <sub>Sinh viên năm cuối Kỹ thuật phần mềm — chuyên ngành Kỹ sư cầu nối Việt–Nhật, Đại học FPT</sub>
-</p>
-
-<p align="center">
-  <img alt="FPT University" src="https://img.shields.io/badge/FPT%20University-Software%20Engineering-24406E?style=flat-square&labelColor=1B3157">
-  <img alt="Bridge SE" src="https://img.shields.io/badge/専攻-ブリッジSE%20(VN–JP)-24406E?style=flat-square&labelColor=1B3157">
-  <img alt="Japanese N3" src="https://img.shields.io/badge/日本語-N3相当-B8402A?style=flat-square&labelColor=8A2F1F">
-</p>
-
----
-
-### Tôi là ai
-
-Tôi học để làm **kỹ sư cầu nối (BrSE)** và **BA** — người đứng giữa khách hàng Nhật và đội phát triển Việt Nam, dịch được cả yêu cầu nghiệp vụ lẫn ràng buộc kỹ thuật theo **hai chiều**. Tôi vẫn tự viết trọn sản phẩm, vì muốn hiểu rõ thứ mà sau này mình phải giải thích cho cả hai phía.
-
-Điểm chung của các dự án dưới đây: **tôi không dừng ở chỗ đề bài cho phép dừng.** Một website bán hàng thường kết thúc ở “giỏ hàng → đặt đơn”; tôi đi tiếp tới công thức nguyên liệu, kế hoạch sản xuất và tồn kho theo ngày. Một app học tiếng Nhật thường dạy *nhận ra* chữ; tôi làm tới chấm từng nét viết tay và luyện nói có rubric chấm điểm. Việc bóc tách một quy trình nghiệp vụ tới tận cùng như vậy chính là phần tôi thích nhất — và cũng là việc của một BA.
-
----
-
-### Dự án
-
-Mỗi repo đều có README chi tiết bằng tiếng Việt — kiến trúc, quyết định kỹ thuật và cách chạy thử.
-
-**[さくら — Sakura](https://github.com/Hiew133/PRM393_SE1917_Project)** &nbsp;·&nbsp; [Dùng thử](https://sakura-nihon.web.app)<br>
-Ứng dụng học tiếng Nhật cho người Việt: chấm từng nét viết tay, luyện nói với giáo viên AI, SRS 9 cấp. Đồ án nhóm PRM393 — tôi làm chủ lực (56/60 commit).<br>
-`Flutter` `Dart` `Firebase` `Gemini`
-
-**[CakeShop](https://github.com/Hiew133/CakeShop)**<br>
-Hệ thống bán bánh trọn vòng nghiệp vụ: đặt online, giao hàng, POS tại quầy và tính tồn kho nguyên liệu theo công thức. 4 vai trò, ~20 entity.<br>
-`Java 17` `Spring Boot` `Spring Security` `JPA` `SQL Server`
-
-**[Bảo tàng Lịch sử Đảng 3D](https://github.com/Hiew133/VNR202)** &nbsp;·&nbsp; [Vào bảo tàng](https://vnr-202-coral.vercel.app/)<br>
-Bảo tàng ảo chạy thẳng trong trình duyệt, 15 hiện vật 3D, mở khoá bằng cách xếp đúng hiện vật vào bệ.<br>
-`Next.js` `React Three Fiber` `TypeScript` `GLSL`
-
-**[Tarot](https://github.com/Hiew133/tarot)** &nbsp;·&nbsp; [Trải bài](https://hiew133.github.io/tarot/)<br>
-Web app tĩnh cố tình làm khó mình: không backend, không API, đúng hai gói phụ thuộc runtime — router, animation và CSS đều viết tay.<br>
-`React 19` `Vite` `Vitest` `GitHub Actions`
-
----
-
-### Cách tôi làm việc
-
-- **Không để secret nào trong repo** — biến môi trường, `.env.example`, Firebase App Check ở chế độ enforced.
-- **Bảo mật và phân quyền làm thật** — BCrypt, OAuth2, chặn ngay ở tầng filter, không phải tắt cho qua.
-- **Viết tài liệu như viết đặc tả** — mỗi README nói rõ *tại sao* chọn cách đó, không chỉ *chạy thế nào*.
-
----
-
-### Kỹ năng
-
-<p>
-  <img alt="Java" src="https://img.shields.io/badge/Java-24406E?style=flat-square&logo=openjdk&logoColor=white">
-  <img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-24406E?style=flat-square&logo=springboot&logoColor=white">
-  <img alt="SQL Server" src="https://img.shields.io/badge/SQL%20Server-24406E?style=flat-square&logo=microsoftsqlserver&logoColor=white">
-  <img alt="Flutter" src="https://img.shields.io/badge/Flutter-24406E?style=flat-square&logo=flutter&logoColor=white">
-  <img alt="Firebase" src="https://img.shields.io/badge/Firebase-24406E?style=flat-square&logo=firebase&logoColor=white">
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-24406E?style=flat-square&logo=typescript&logoColor=white">
-  <img alt="React" src="https://img.shields.io/badge/React-24406E?style=flat-square&logo=react&logoColor=white">
-  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-24406E?style=flat-square&logo=nextdotjs&logoColor=white">
-  <img alt="Three.js" src="https://img.shields.io/badge/Three.js-24406E?style=flat-square&logo=threedotjs&logoColor=white">
-  <img alt="Git" src="https://img.shields.io/badge/Git-24406E?style=flat-square&logo=git&logoColor=white">
-  <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-24406E?style=flat-square&logo=githubactions&logoColor=white">
-</p>
-
-| | |
-|---|---|
-| **Nghiệp vụ / BA** | Bóc tách quy trình, mô hình hoá dữ liệu, phân quyền theo vai trò, viết đặc tả và tài liệu bàn giao |
-| **Cầu nối** | Tiếng Việt (bản ngữ) · 日本語 N3相当 · English (đọc hiểu tài liệu kỹ thuật) |
-| **Kỹ thuật** | Backend Spring Boot · Mobile Flutter + Firebase · Frontend React / Next.js · CI/CD GitHub Actions |
-
----
-
-<details>
-<summary><b>日本語プロフィール</b></summary>
-
-<br>
-
-ベトナムのFPT大学でソフトウェア工学を専攻し、日越ブリッジSEコースに在籍している最終学年の学生です。日本語はN3相当です。
-
-将来は**ブリッジSE**および**BA**として、日本のお客様とベトナムの開発現場をつなぎ、業務要件と技術的な制約の両方を双方向に翻訳できる人になりたいと考えています。
-
-これまでに、Spring Boot による受発注・在庫管理システム、Flutter と Firebase による日本語学習アプリ、React Three Fiber によるブラウザ上の3D展示などを、個人または少人数のチームで開発しました。私が大切にしているのは、課題の要件で止めないことです。買い物かごの先にある在庫と原価の計算まで、単語を「読める」の先にある「話せる」まで作り込みました。
-
-</details>
-
-<details>
-<summary><b>English profile</b></summary>
-
-<br>
-
-Final-year Software Engineering student at FPT University, specialising in **Vietnam–Japan Bridge SE**, with Japanese at an N3-equivalent level. I am working towards a career as a **Bridge SE / Business Analyst** — translating business requirements and technical constraints in both directions between Japanese clients and Vietnamese development teams.
-
-I build complete products myself so that I understand what I will later have to explain to both sides: a Spring Boot commerce system with recipe-driven inventory, a Flutter + Firebase Japanese-learning app with AI speaking practice, a browser-based 3D museum, and a zero-backend React app with two runtime dependencies.
-
-</details>
-
----
-
-<p align="center">
-  <a href="mailto:lehieu13032004@gmail.com">
-    <img alt="Email" src="https://img.shields.io/badge/lehieu13032004@gmail.com-24406E?style=flat-square&logo=gmail&logoColor=white">
+  <a href="https://github.com/Hiew133">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=6DB33F&center=true&vCenter=true&width=620&lines=Bridge+SE+%2F+Business+Analyst+in+training;%E6%97%A5%E8%B6%8A%E3%83%96%E3%83%AA%E3%83%83%E3%82%B8SE%E3%82%92%E7%9B%AE%E6%8C%87%E3%81%97%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99;Spring+Boot+%C2%B7+Flutter+%C2%B7+React+%C2%B7+Three.js" alt="Typing SVG">
   </a>
 </p>
 
-<p align="center"><sub>日々、橋を架ける練習を。 — Mỗi ngày một nhịp cầu.</sub></p>
+# 💫 About Me:
+I'm a final-year **Software Engineering** student at **FPT University**, majoring in **Vietnam–Japan Bridge SE (日越ブリッジSE)**. My goal is to work as a **Bridge SE / Business Analyst** — the person standing between Japanese clients and Vietnamese dev teams, translating business requirements and technical constraints in **both directions**.
+
+I still build complete products end-to-end, because I want to genuinely understand what I'll later have to explain to both sides.
+
+- 🌉 Training as a **BrSE / BA** — requirement analysis, business process modeling, spec & handover documentation.
+- 🈶 **Japanese at N3 level** — open to Japanese working environments.
+- 🔭 Currently building **role-based web systems**, **cross-platform mobile apps**, and **3D web experiences**.
+- 📐 My habit: I don't stop where the assignment lets me stop — a cake shop app goes all the way to recipes, production planning and daily stock.
+- 🔐 I never commit secrets — env vars, `.env.example`, Firebase App Check in enforced mode.
+- ⚡ Fun fact: I built a tarot web app with exactly **two** runtime dependencies.
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hiew133/Hiew133/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Hiew133/Hiew133/output/github-snake.svg">
+    <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/Hiew133/Hiew133/output/github-snake.svg">
+  </picture>
+</p>
+
+## 🌐 Socials:
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:lehieu13032004@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/Hiew133)
+
+# 💻 Tech Stack:
+**Backend**<br>
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=plastic&logo=springboot&logoColor=white) ![Spring Security](https://img.shields.io/badge/Spring%20Security-%236DB33F.svg?style=plastic&logo=springsecurity&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-%2359666C.svg?style=plastic&logo=hibernate&logoColor=white) ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=plastic&logo=thymeleaf&logoColor=white) ![SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=plastic&logo=microsoftsqlserver&logoColor=white) ![Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=plastic&logo=apachemaven&logoColor=white)
+
+**Mobile**<br>
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=plastic&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=plastic&logo=dart&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=plastic&logo=firebase&logoColor=black) ![Gemini](https://img.shields.io/badge/Gemini-%238E75B2.svg?style=plastic&logo=googlegemini&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-%2302303A.svg?style=plastic&logo=gradle&logoColor=white)
+
+**Frontend & 3D**<br>
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white) ![Three.js](https://img.shields.io/badge/threejs-black?style=plastic&logo=three.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=plastic&logo=vite&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white)
+
+**Tools & DevOps**<br>
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=plastic&logo=githubactions&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![Vitest](https://img.shields.io/badge/Vitest-%236E9F18.svg?style=plastic&logo=vitest&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=plastic&logo=eslint&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white)
+
+# 🚀 Featured Projects:
+
+### 🌸 [さくら — Sakura](https://github.com/Hiew133/PRM393_SE1917_Project) · [Live demo](https://sakura-nihon.web.app)
+Japanese learning app for Vietnamese learners — **stroke-by-stroke handwriting grading**, AI speaking practice with rubric scoring, and a 9-level SRS. Team project (PRM393), I led development with **56/60 commits**.<br>
+`Flutter` `Dart` `Firebase` `Gemini` `App Check`
+
+### 🍰 [CakeShop](https://github.com/Hiew133/CakeShop)
+A bakery system covering the **full business cycle** — online ordering, delivery with photo confirmation, in-store POS, and ingredient stock computed from recipes. 4 roles, ~20 entities.<br>
+`Java 17` `Spring Boot` `Spring Security` `JPA` `SQL Server` `Thymeleaf`
+
+### 🏛️ [3D Party History Museum](https://github.com/Hiew133/VNR202) · [Live demo](https://vnr-202-coral.vercel.app/)
+A virtual museum running **straight in the browser** — 15 3D artifacts, hand-written GLSL shaders, unlocked by placing each artifact on the right pedestal.<br>
+`Next.js` `React Three Fiber` `TypeScript` `GLSL` `Zustand`
+
+### 🔮 [Tarot](https://github.com/Hiew133/tarot) · [Live demo](https://hiew133.github.io/tarot/)
+A deliberately constrained static web app — **no backend, no API, exactly two runtime dependencies**. Router, three animations and ~830 lines of CSS all hand-written, fully keyboard-operable.<br>
+`React 19` `Vite` `Vitest` `GitHub Actions`
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Hiew133&theme=transparent&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Hiew133&theme=transparent&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hiew133&theme=transparent&hide_border=true&layout=compact&langs_count=8&hide=html,css,scss,objective-c,swift,kotlin)
+
+# 🈯 日本語プロフィール
+ベトナムのFPT大学でソフトウェア工学を専攻し、**日越ブリッジSE**コースに在籍している最終学年の学生です。日本語は**N3相当**です。
+
+将来は**ブリッジSE・BA**として、日本のお客様とベトナムの開発現場をつなぎ、業務要件と技術的な制約の両方を双方向に翻訳できる人になりたいと考えています。私が大切にしているのは、課題の要件で止めないことです。買い物かごの先にある在庫と原価の計算まで、単語を「読める」の先にある「話せる」まで作り込みました。
+
+---
+[![](https://visitcount.itsvg.in/api?id=Hiew133&icon=5&color=6)](https://visitcount.itsvg.in)
+
+<p align="center"><sub>日々、橋を架ける練習を。 — Building a bridge, one day at a time.</sub></p>
