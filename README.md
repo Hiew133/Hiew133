@@ -62,9 +62,28 @@ A deliberately constrained static web app — **no backend, no API, exactly two 
 `React 19` `Vite` `Vitest` `GitHub Actions`
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Hiew133&theme=transparent&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Hiew133&theme=transparent&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hiew133&theme=transparent&hide_border=true&layout=compact&langs_count=8&hide=html,css,scss,objective-c,swift,kotlin)
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hiew133&theme=github_dark">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hiew133&theme=default" alt="Profile details">
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Hiew133&theme=github_dark">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Hiew133&theme=default" alt="Most commit language" height="200">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Hiew133&theme=github_dark">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Hiew133&theme=default" alt="Stats" height="200">
+  </picture>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Hiew133&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub streak">
+</p>
 
 # 🈯 日本語プロフィール
 ベトナムのFPT大学でソフトウェア工学を専攻し、**日越ブリッジSE**コースに在籍している最終学年の学生です。日本語は**N3相当**です。
@@ -72,6 +91,9 @@ A deliberately constrained static web app — **no backend, no API, exactly two 
 将来は**ブリッジSE・BA**として、日本のお客様とベトナムの開発現場をつなぎ、業務要件と技術的な制約の両方を双方向に翻訳できる人になりたいと考えています。私が大切にしているのは、課題の要件で止めないことです。買い物かごの先にある在庫と原価の計算まで、単語を「読める」の先にある「話せる」まで作り込みました。
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Hiew133&icon=5&color=6)](https://visitcount.itsvg.in)
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Hiew133&label=Profile%20views&color=6DB33F&style=flat" alt="Profile views">
+</p>
 
 <p align="center"><sub>日々、橋を架ける練習を。 — Building a bridge, one day at a time.</sub></p>
