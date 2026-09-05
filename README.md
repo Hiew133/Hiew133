@@ -19,7 +19,11 @@ I still build complete products end-to-end, because I want to genuinely understa
 - ⚡ Fun fact: I built a tarot web app with exactly **two** runtime dependencies.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Hiew133/Hiew133/main/assets/minion-bridge.svg" alt="A small yellow helper walking across a bridge from VN to JP" width="880">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hiew133/Hiew133/main/assets/minion-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Hiew133/Hiew133/main/assets/minion-light.svg">
+    <img alt="A minion built from contribution-graph squares, walking across and eating them" src="https://raw.githubusercontent.com/Hiew133/Hiew133/main/assets/minion-light.svg" width="870">
+  </picture>
 </p>
 
 ## 🌐 Socials:
