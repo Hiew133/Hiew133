@@ -25,7 +25,7 @@ I still build complete products end-to-end, because I want to genuinely understa
 </p>
 
 ## 🌐 Socials:
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:lehieu13032004@gmail.com)
+[![Email](https://img.shields.io/badge/lehieu13032004%40gmail.com-D14836?logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=lehieu13032004@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/Hiew133)
 
 # 💻 Tech Stack:

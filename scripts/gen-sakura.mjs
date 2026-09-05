@@ -88,9 +88,9 @@ function buildScene() {
 
   // tán hoa
   const cx = TRUNK_C;
-  const cy = 3.2;
-  const rx = 17.5;
-  const ry = 3.9;
+  const cy = 3.4;
+  const rx = 20.5;
+  const ry = 4.9;
   for (let r = 0; r < ROWS; r++) {
     for (let c = 0; c < COLS; c++) {
       const key = `${c},${r}`;
@@ -99,15 +99,13 @@ function buildScene() {
       const dy = (r - cy) / ry;
       const d = dx * dx + dy * dy;
       if (d > 1) continue;
-      if (rand() < d * 0.72) continue; // thưa dần ra mép tán
+      if (rand() < d * d * 0.55) continue; // chỉ thưa ở sát mép tán
 
       const dist = Math.hypot((c - cx) / rx, (r - TRUNK_R) / 7);
-      petals.push({
-        c,
-        r,
-        level: 1 + Math.floor(rand() * 4),
-        dist,
-      });
+      // nghiêng về sắc hồng đậm để tán trông rõ màu, hồng nhạt chỉ điểm xuyết
+      const roll = rand();
+      const level = roll < 0.14 ? 1 : roll < 0.44 ? 2 : roll < 0.79 ? 3 : 4;
+      petals.push({ c, r, level, dist });
     }
   }
 
